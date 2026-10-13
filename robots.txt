@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://kentonjack.github.io/sitemap.xml
