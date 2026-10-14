@@ -8,7 +8,7 @@ Serve the repository root from the `main` branch. No build step, JavaScript, dep
 
 ## Content
 
-The page shows the current role, location, technical focus, and selected metrics first, followed by short experience bullets, skills, education, and contact links. All content is visible without expanding sections or interacting with a demo. Platform scale is distinguished from personal contributions.
+The page shows the current role, location, technical focus, and selected metrics first, followed by high-level company, role, and scope entries, skills, education, and contact links. All content is visible without expanding sections or interacting with a demo. Platform scale is distinguished from personal contributions.
 
 ## Editing
 
